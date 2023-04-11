@@ -30,6 +30,12 @@ namespace Dosen {
             Console.WriteLine($"Course : {this.course}");
         }
 
+        public void attDosen(string name, int nik)
+        {
+            nama = name;
+            nik = nik;
+        }
+
         public void addCourse(string course) 
         {
             course += "," + course;
