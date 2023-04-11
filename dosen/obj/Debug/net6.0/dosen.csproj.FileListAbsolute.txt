@@ -1,0 +1,5 @@
+D:\semester2\pemrograman\practice\dosen\dosen\obj\Debug\net6.0\dosen.csproj.AssemblyReference.cache
+D:\semester2\pemrograman\practice\dosen\dosen\obj\Debug\net6.0\dosen.GeneratedMSBuildEditorConfig.editorconfig
+D:\semester2\pemrograman\practice\dosen\dosen\obj\Debug\net6.0\dosen.AssemblyInfoInputs.cache
+D:\semester2\pemrograman\practice\dosen\dosen\obj\Debug\net6.0\dosen.AssemblyInfo.cs
+D:\semester2\pemrograman\practice\dosen\dosen\obj\Debug\net6.0\dosen.csproj.CoreCompileInputs.cache
