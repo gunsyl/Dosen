@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "MsyVQfDMmpRKmWiijnu+ejINqHXolZhXxGi+lnhtOBivPZMkliU7JvIBaeTcJR2BpVy/T4w+pzr2JMtx7fzf/g==",
+  "dgSpecHash": "zbj/3vquH9UY3SAKA4nQNU3AbNkA+VGfjcH8NElIL819gomukFz0V9RgOH5F4v2nGTmPchC912xgKz+DilJNtw==",
   "success": true,
-  "projectFilePath": "D:\\dosen_fix_banget\\dosen\\dosen.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\github\\dosen\\dosen\\dosen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
   "logs": []
 }

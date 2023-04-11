@@ -29,6 +29,11 @@ namespace Dosen {
             Console.WriteLine($"Gender : {this.gender}");
             Console.WriteLine($"Course : {this.course}");
         }
+
+        public void addCourse(string course) 
+        {
+            course += "," + course;
+        }
     }
 
 }

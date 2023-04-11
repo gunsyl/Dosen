@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dosen_fix_banget\\dosen\\dosen.csproj": {}
+    "D:\\github\\dosen\\dosen\\dosen.csproj": {}
   },
   "projects": {
-    "D:\\dosen_fix_banget\\dosen\\dosen.csproj": {
+    "D:\\github\\dosen\\dosen\\dosen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dosen_fix_banget\\dosen\\dosen.csproj",
+        "projectUniqueName": "D:\\github\\dosen\\dosen\\dosen.csproj",
         "projectName": "dosen",
-        "projectPath": "D:\\dosen_fix_banget\\dosen\\dosen.csproj",
-        "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "D:\\dosen_fix_banget\\dosen\\obj\\",
+        "projectPath": "D:\\github\\dosen\\dosen\\dosen.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "D:\\github\\dosen\\dosen\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
