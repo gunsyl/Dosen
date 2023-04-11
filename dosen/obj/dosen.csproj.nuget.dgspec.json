@@ -1,26 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Pemrograman\\Mydosen\\dosen\\dosen.csproj": {}
+    "D:\\code\\c#\\Dosen\\dosen\\dosen.csproj": {}
   },
   "projects": {
-    "E:\\Pemrograman\\Mydosen\\dosen\\dosen.csproj": {
+    "D:\\code\\c#\\Dosen\\dosen\\dosen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Pemrograman\\Mydosen\\dosen\\dosen.csproj",
+        "projectUniqueName": "D:\\code\\c#\\Dosen\\dosen\\dosen.csproj",
         "projectName": "dosen",
-        "projectPath": "E:\\Pemrograman\\Mydosen\\dosen\\dosen.csproj",
-        "packagesPath": "C:\\Users\\rog\\.nuget\\packages\\",
-        "outputPath": "E:\\Pemrograman\\Mydosen\\dosen\\obj\\",
+        "projectPath": "D:\\code\\c#\\Dosen\\dosen\\dosen.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "D:\\code\\c#\\Dosen\\dosen\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rog\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

@@ -4,13 +4,10 @@ namespace Dosen {
     public class DosenKu
     
     {
-        public int id;
-        public string nama;
-        public string nik;
-        public string gender;
-        public string course;
-
-        
+        private int id;
+        public string nama, nik;        
+        private string gender;
+        private string course;
 
         public DosenKu(int id,string nama, string nik, string gender, string course)
         {
@@ -23,22 +20,22 @@ namespace Dosen {
 
         public void display()
         {
-            Console.WriteLine($"ID : {this.id}");
-            Console.WriteLine($"Nama : {this.nama}");
-            Console.WriteLine($"NIK : {this.nik}");
-            Console.WriteLine($"Gender : {this.gender}");
-            Console.WriteLine($"Course : {this.course}");
+            Console.WriteLine($"ID \t: {this.id}");
+            Console.WriteLine($"Nama \t: {this.nama}");
+            Console.WriteLine($"NIK \t: {this.nik}");
+            Console.WriteLine($"Gender \t: {this.gender}");
+            Console.WriteLine($"Course \t: {this.course}");
         }
 
-        public void attDosen(string name, int nik)
+        public void attDosen(string name, string nik)
         {
-            nama = name;
-            nik = nik;
+            this.nama = name;
+            this.nik = nik;
         }
 
         public void addCourse(string course) 
         {
-            course += "," + course;
+            this.course += ", " + course;
         }
     }
 
