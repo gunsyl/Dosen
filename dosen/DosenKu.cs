@@ -15,6 +15,10 @@ namespace Dosen {
             this.gender = gender;
             this.course = course;
         }
-    }
+        public void addCourse(string course) {
+            course += "," + course;
+        }
+     
+    } 
 
 }

@@ -6,12 +6,14 @@ namespace Dosen
         static void Main(string[] args)
         {
             DosenKu dosen = new DosenKu("Dosen pengampu", "12345", "Male", "OOP");
-
+     
             Console.WriteLine("Default Dosen Pengampu: ");       
 
             Console.WriteLine("\nMasukkan Nama dan NIK Dosen Baru: ");   
 
-            Console.WriteLine("\nMasukkan Mata Kuliah Baru: ");            
+            Console.WriteLine("\nMasukkan Mata Kuliah Baru: ");
+
+            dosen.addCourse("bahasa inggris");
 
             Console.WriteLine();
         }
